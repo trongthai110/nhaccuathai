@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21F79" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Playlist" representedClassName="Playlist" syncable="YES">
+        <attribute name="namePlaylist" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Playlist" positionX="-3085.21533203125" positionY="-441.1056823730469" width="207.400634765625" height="58"/>
+    </elements>
+</model>
